@@ -1,0 +1,281 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        clear
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GradeEncryption",
+            "request": "launch",
+            "mainClass": "GradeEncryption",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "HotelMenuSystem",
+            "request": "launch",
+            "mainClass": "HotelMenuSystem",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "calci",
+            "request": "launch",
+            "mainClass": "calci",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "cart",
+            "request": "launch",
+            "mainClass": "cart",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "circle",
+            "request": "launch",
+            "mainClass": "circle",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "compound",
+            "request": "launch",
+            "mainClass": "compound",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "f1",
+            "request": "launch",
+            "mainClass": "forloop.f1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "hypo",
+            "request": "launch",
+            "mainClass": "hypo",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "ie1",
+            "request": "launch",
+            "mainClass": "ifelse.ie1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "logic",
+            "request": "launch",
+            "mainClass": "logic",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "mark",
+            "request": "launch",
+            "mainClass": "mark",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "metre",
+            "request": "launch",
+            "mainClass": "metre",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "day",
+            "request": "launch",
+            "mainClass": "nestedif.day",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "nestedif.q1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "nestedif.q3",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "nestedif.q4",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "withdraw",
+            "request": "launch",
+            "mainClass": "nestedif.withdraw",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "p1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "p10",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p11",
+            "request": "launch",
+            "mainClass": "p11",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p2",
+            "request": "launch",
+            "mainClass": "p2",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p3",
+            "request": "launch",
+            "mainClass": "p3",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p4",
+            "request": "launch",
+            "mainClass": "p4",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p5",
+            "request": "launch",
+            "mainClass": "p5",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p6",
+            "request": "launch",
+            "mainClass": "p6",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p7",
+            "request": "launch",
+            "mainClass": "p7",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p8",
+            "request": "launch",
+            "mainClass": "p8",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "p9",
+            "request": "launch",
+            "mainClass": "p9",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "s1",
+            "request": "launch",
+            "mainClass": "string.s1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "s2",
+            "request": "launch",
+            "mainClass": "string.s2",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "temp",
+            "request": "launch",
+            "mainClass": "temp",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "weight",
+            "request": "launch",
+            "mainClass": "weight",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "w1",
+            "request": "launch",
+            "mainClass": "whileloop.w1",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "w2",
+            "request": "launch",
+            "mainClass": "whileloop.w2",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "w3",
+            "request": "launch",
+            "mainClass": "whileloop.w3",
+            "projectName": "learnjava_90fa0c54"
+        },
+        {
+            "type": "java",
+            "name": "w4",
+            "request": "launch",
+            "mainClass": "whileloop.w4",
+            "projectName": "learnjava_90fa0c54"
+        }
+    ]
+}
